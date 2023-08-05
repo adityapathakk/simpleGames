@@ -1,4 +1,4 @@
-# Aditya Pathak's "pyTicTacToe"
+# pathak's "pyTicTacToe"
 ## For when you're bored and craving a game of good old Tic Tac Toe in your Terminal
 
 Recall how, in our childhood, we played <i>Zero Kaata</i> on the last pages of your notebooks in school.
