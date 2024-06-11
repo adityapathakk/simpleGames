@@ -1,5 +1,5 @@
 # pathak's "pyTicTacToe"
-## For when you're bored and craving a game of good old Tic Tac Toe in your Terminal
+### For when you're bored and craving a game of good old Tic Tac Toe in your Terminal :))
 
 Recall how, in our childhood, we played <i>Zero Kaata</i> on the last pages of our notebooks in school.
 I created this project out of a desire to revise and work on my Python skills with an amateur yet fun idea. <b>And for the nostalgia</b>.
@@ -7,11 +7,10 @@ I created this project out of a desire to revise and work on my Python skills wi
 This was also my submission for what is known as one of the most challenging tasks in Cisco Networking Academy's "PCAP-Programming Essentials in Python" course.
 The layout of the 'board' was inspired by their prompt for "Project: Tic Tac Toe".
 
-### <ins>Download the "ticTacToe.py" file and play in your Terminal!</ins>
-
 ## Background Info.
-Instructions given by the course for this game that I implemented by myself are as follows: 
-### Scenario:
+Instructions given by the course for this game that I implemented by myself are as follows:
+<br><br>
+<b>Scenario:</b>
 Your task is to write a simple program which pretends to play tic-tac-toe with the user. We've decided to simplify the game. Here are our assumptions:
 
 1. The computer (i.e., your program) should play the game using 'X's;
@@ -46,6 +45,6 @@ If you win(!) :
 ## Notes
 Yes, there's a little bit of a <i>Command Line Interface</i> aesthetic to it, so you can call it basic ¯\\_(ツ)_/¯
 
-I may add some more functionality (or who knows, more games!?) to this repo later on.
-1. Would really like to play with the art of waiting and make the game play out more dramatically, instead of it delivering results as soon as you press Enter.
+I may add some more functionality -
+1. Would really like to play with the art of waiting and make the game play out more dramatically, instead of delivering results as soon as you press Enter.
 2. Imagine I revamp this using Tkinter and make a full-fledged GUI for this (<b>HAHA THAT'D BE SICK</b>).
