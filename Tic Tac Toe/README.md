@@ -4,13 +4,13 @@
 Recall how, in our childhood, we played <i>Zero Kaata</i> on the last pages of our notebooks in school.
 I created this project out of a desire to revise and work on my Python skills with an amateur yet fun idea. <b>And for the nostalgia</b>.
 
-This was also my submission for what is known as one of the most challenging tasks in Cisco Networking Academy's "PCAP-Programming Essentials in Python" course.
+This was also my submission for what is known as one of the most challenging tasks in <a href = "https://skillsforall.com/course/python-essentials-1?courseLang=en-US&instance_id=da0847b7-e6fc-4597-bc31-38ddd6b07a2e">Cisco Networking Academy's "PCAP-Programming Essentials in Python" course</a>.
 The layout of the 'board' was inspired by their prompt for "Project: Tic Tac Toe".
 
 ## Background Info.
 Instructions given by the course for this game that I implemented by myself are as follows:
 <br><br>
-<b>Scenario:</b>
+<b>Scenario:</b><br>
 Your task is to write a simple program which pretends to play tic-tac-toe with the user. We've decided to simplify the game. Here are our assumptions:
 
 1. The computer (i.e., your program) should play the game using 'X's;
@@ -43,7 +43,7 @@ If you win(!) :
 <img width="349" alt="Screenshot 2023-08-06 at 12 25 34 AM" src="https://github.com/adityapathakk/pyTicTacToe/assets/91721440/66ad72ad-967d-4951-86f0-41b7119c66a7">
 
 ## Notes
-Yes, there's a little bit of a <i>Command Line Interface</i> aesthetic to it, so you can call it basic ¯\\_(ツ)_/¯
+Yes, there's a little bit of a `Command Line Interface` aesthetic to it, so you can call it basic ¯\\_(ツ)_/¯
 
 I may add some more functionality -
 1. Would really like to play with the art of waiting and make the game play out more dramatically, instead of delivering results as soon as you press Enter.
